@@ -6,7 +6,7 @@ g2 = int(input("Şifrenizi giriniz: "))
 anapara = 10000
 
 if g1 == "utkuablak":
-    print("Hoşgeldiniz")
+    print("Kullanıcı adınız doğru")
 else:
     print("Kullanıcı adınızı yanlış girdiniz")
     exit()
